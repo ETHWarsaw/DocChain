@@ -1,1 +1,1 @@
-# DocChain
+# ETH Warsaw Foundation
