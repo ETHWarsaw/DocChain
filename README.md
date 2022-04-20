@@ -1,3 +1,3 @@
-# ETH Warsaw Foundation
+# Fundacja ETH Warsaw
 
 1. [Statut](./Statut.md)
